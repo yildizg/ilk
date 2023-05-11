@@ -1,0 +1,9 @@
+1- Proje name: ZW App
+2- Personel package, client packge
+3- Product isminde interface burada String uretici isminde variable, void urunIsmi(),int miktar(),void birim()
+void raf() isminde methodlar. String urunID ler.
+4- Transactions class i creat edilerek bu class dan Product implements edilecek ve icerisinde
+listeleleme,miktar güncelleme,raf güncelleme, indirime sokma ve kategori islemleri calisilacak
+5- Client isminde bir class olusturup Transaction class i extends edilsin ve bu classda satinAl(),arama(),sepetGoruntule()
+ve cikis() methodlari calisilsin.
+6-
